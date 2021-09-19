@@ -53,6 +53,7 @@ Execute an npm install in this client-side folder in order to install the front 
 ```bash
 # Install dependencies
 $ npm install
+
 # Start the server
 $ npm start
 ```
