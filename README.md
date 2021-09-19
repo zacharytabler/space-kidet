@@ -1,13 +1,27 @@
-# Mystery  Educator
+# Space KIDet 🪐
+## "Enjoy Space Like Never Before!"
 
-## Application setup
+![alt-text](https://im7.ezgif.com/tmp/ezgif-7-c3b0c2b292ca.gif)
 
-This application contains both `server side` and `client side` functionality.
+Space KIDet is a single page application (SPA) that educates children about the history and science around the planets of the solar system.
 
-## Install Instructions
-- `clone` this application
-- Run your `Spring` server and you should see a println statement in your intelliJ console verifying that you are wired up, note the server should be running on `localhost:8080`
-- `cd` into the `client-side` folder
-- Execute an `npm install` in this `client-side` folder in order to install the front end dependencies
-- `npm start` should spin up a server at `localhost:1234` 
-- Inspect the browser and you should see a log statement verifying the front end is wired up
+### Key Features 🔑
+* The single page application design provides an easy user experience
+* Space KIDet pulls information from both the Smithsonian and NASA APIs
+* Users have the ability to record notes that save to the "Favorite Facts" page
+* Space KIDet includes a quiz to test user retention of the information presented within the application
+
+### Technologies Used 🧰
+* Java
+* Javascript
+* HTML
+* CSS
+* Spring Boot
+* APIs
+* Git
+
+### Authors 🖊️
+* Miranda Perry - **[Github](https://github.com/MirandaPerry1982)**, **[Portfolio](https://MirandaPerry1982.github.io/)**
+* Alicia Sanders -  **[Github](https://github.com/asanders7)**, **[Portfolio](https://asanders7.github.io/)**
+* Zachary Tabler -  **[Github](https://github.com/zacharytabler)**, **[Portfolio](https://zacharytabler.github.io/)**
+* Jovahnn Tucker -  **[Github](https://github.com/Troublesm1)**, **[Portfolio](Troublesm1.github.io)** 
