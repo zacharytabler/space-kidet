@@ -24,4 +24,4 @@ Space KIDet is a single page application (SPA) that educates children about the 
 * Miranda Perry - **[Github](https://github.com/MirandaPerry1982)**, **[Portfolio](https://MirandaPerry1982.github.io/)**
 * Alicia Sanders -  **[Github](https://github.com/asanders7)**, **[Portfolio](https://asanders7.github.io/)**
 * Zachary Tabler -  **[Github](https://github.com/zacharytabler)**, **[Portfolio](https://zacharytabler.github.io/)**
-* Jovahnn Tucker -  **[Github](https://github.com/Troublesm1)**, **[Portfolio](Troublesm1.github.io)** 
+* Jovahnn Tucker -  **[Github](https://github.com/Troublesm1)**, **[Portfolio](https://Troublesm1.github.io)** 
