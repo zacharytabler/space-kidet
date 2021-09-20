@@ -13,7 +13,7 @@ Space KIDet is a single page application (SPA) that educates children about the 
 
 ### Technologies Used 🧰
 * Java
-* Javascript
+* JavaScript
 * HTML
 * CSS
 * Spring Boot
@@ -28,7 +28,7 @@ Space KIDet is a single page application (SPA) that educates children about the 
 
 ### What We Learned 📚
 * How To Create Single Page Applications (SPA)
-* Building Functions With Javascript
+* Building Functions With JavaScript
 * Working with APIs
 * Importance of Separation Of Concerns
 * The Importance Of The Agile Methodology In Managing A Project
@@ -36,7 +36,7 @@ Space KIDet is a single page application (SPA) that educates children about the 
 ### How To Use 🔧
 This application contains both server side and client side functionality.
 
-From your command line, clone this application
+From your command line, clone Space KIDet
 ```bash
 # Clone this repository
 $ git clone https://github.com/zacharytabler/space-kidet.git
