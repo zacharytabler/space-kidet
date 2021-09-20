@@ -34,7 +34,7 @@ Space KIDet is a single page application (SPA) that educates children about the 
 * The Importance Of The Agile Methodology In Managing A Project
 
 ### How To Use 🔧
-This application contains both server side and client side functionality.
+This application contains both server side and client side functionality
 
 From your command line, clone Space KIDet
 ```bash
