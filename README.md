@@ -1,7 +1,7 @@
 # Space KIDet 🪐
 ## "Enjoy Space Like Never Before!"
 
-![alt-text](https://im7.ezgif.com/tmp/ezgif-7-c3b0c2b292ca.gif)
+![alt-text](https://i.ibb.co/5hxZBP2/space-kidet.gif)
 
 Space KIDet is a single page application (SPA) that educates children about the history and science around the planets of the solar system.
 
